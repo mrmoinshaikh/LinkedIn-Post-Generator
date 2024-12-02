@@ -40,7 +40,6 @@ Ensure you have the following dependencies installed:
 ### Steps to Set Up Locally
 Clone the repository to your local machine.
 
-bash
 Copy code
 git clone https://github.com/mrmoinshaikh/LinkedIn-Post-Generator.git
 
@@ -48,13 +47,13 @@ git clone https://github.com/mrmoinshaikh/LinkedIn-Post-Generator.git
 Install the required Python packages:
 
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `.env` update the value of `GROQ_API_KEY` with the API_KEY you created.
-2. 
-3. To get started, first install the dependencies using:
+   
+2. To get started, first install the dependencies using:
     ```commandline
      pip install -r requirements.txt
     ```
     
-4. Run the streamlit app:
+3. Run the streamlit app:
    ```commandline
    streamlit run main.py
    ```
