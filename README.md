@@ -2,7 +2,7 @@
 
 PostFroge is a Python-based LinkedIn Post Generator that allows you to automatically generate engaging and personalized LinkedIn posts. It uses AI models and content strategies to craft posts that can help improve your LinkedIn presence.
 
-## Example Generated Post
+## The Appearance of the Generator
 
 Here’s an example of how the generated post might look:
 
@@ -14,6 +14,12 @@ Here’s an example of how the generated post might look:
 - Customizable tone and style for posts.
 - Simple command-line interface for generating posts.
 - Easy to extend for other social media platforms.
+
+## The Example of the Generated Post
+
+Here’s an example of how the generated post might look:
+
+![Post Example](images/Screenshot 2024-12-02 185510.png)
 
 
 Files in the Project
