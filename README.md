@@ -42,9 +42,8 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone (https://github.com/mrmoinshaikh/LinkedIn-Post-Generator.git)
-cd PostForge
-Set up your environment variables by editing the .env file or setting them in your system. Ensure you have the Groq Cloud API key in the .env file or as an environment variable for authentication.
+git clone https://github.com/mrmoinshaikh/LinkedIn-Post-Generator.git
+
 
 Install the required Python packages:
 
