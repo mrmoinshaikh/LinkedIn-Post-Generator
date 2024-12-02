@@ -29,13 +29,15 @@ Here’s an example of how the generated post might look:
 - **Groq Cloud**: A cloud platform for fast and scalable AI model deployment and inference.
 - **Other Libraries**: pandas, NumPy, etc. (if applicable)
 
+### Prerequisites
 Ensure you have the following dependencies installed:
 
-Python 3.x
-Llama 3 model (or relevant dependency for the model)
-Streamlit and other necessary Python libraries.
-Groq Cloud account and API credentials for model inference.
-Steps to Set Up Locally
+- **Python 3.x**
+- **Llama 3 model** (or relevant dependency for the model)
+- **Streamlit** and other necessary Python libraries.
+- **Groq Cloud account and API credentials** for model inference.
+  
+### Steps to Set Up Locally
 Clone the repository to your local machine.
 
 bash
