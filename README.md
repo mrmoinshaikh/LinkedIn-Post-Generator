@@ -46,10 +46,11 @@ Set up your environment variables by editing the .env file or setting them in yo
 
 Install the required Python packages:
 
+To get started, first install the dependencies using:
  ```commandline
      pip install -r requirements.txt
     ```
-
+Run the streamlit app:
 ```commandline
    streamlit run main.py
    ```
