@@ -19,7 +19,8 @@ Here’s an example of how the generated post might look:
 
 Here’s an example of how the generated post might look:
 
-![Post Example](images/Screenshot 2024-12-02 185510.png)
+![Post Example](images/Screenshot%202024-12-02%20185510.png)
+
 
 
 Files in the Project
