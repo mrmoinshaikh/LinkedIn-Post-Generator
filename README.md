@@ -32,4 +32,4 @@ ontributing
 If you’d like to contribute to the development of PostFroge, feel free to fork the repository, make your changes, and submit a pull request. All contributions are welcome!
 
 Acknowledgements
-Inspired by the CodeBasics YouTube Channel for the knowledge and implementation strategies used.
+Inspired by the [Codebasics GitHub](https://github.com/codebasics) YouTube Channel  for the knowledge and implementation strategies used.
