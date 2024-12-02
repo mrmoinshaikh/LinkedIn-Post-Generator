@@ -1,0 +1,39 @@
+# Python-related cache and bytecode files
+__pycache__/
+
+# Environment variables file, contains sensitive information
+.env
+
+# IDE and editor configurations
+.idea/
+
+# Data directory (unless you want to store example data for public use)
+data/
+
+# Virtual environment (if using virtualenv, venv, or conda)
+venv/
+.env/
+
+# Python package distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+
+# Logs (if any)
+*.log
+
+# Temporary files created by text editors (e.g., Vim, Emacs)
+*~
+*.swp
+
+# Python-specific cache files
+*.pyc
+*.pyo
+
+# Dependency management files (not necessary to track if it's in requirements.txt)
+Pipfile
+Pipfile.lock
