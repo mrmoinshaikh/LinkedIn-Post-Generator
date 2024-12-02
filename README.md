@@ -47,14 +47,14 @@ Set up your environment variables by editing the .env file or setting them in yo
 Install the required Python packages:
 
 To get started, first install the dependencies using:
- ```commandline
+     ```commandline
      pip install -r requirements.txt
-    ```
+        ```
 
 Run the streamlit app:
-```commandline
+    ```commandline
    streamlit run main.py
-   ```
+       ```
 Once the app is running, it will open in your default web browser, and you can interact with the LinkedIn post generator via the UI.
 
 Usage
