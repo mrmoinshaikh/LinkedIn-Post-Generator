@@ -28,7 +28,7 @@ Here’s an example of how the generated post might look:
 - **Streamlit**: A framework used to build the interactive web interface.
 - **Groq Cloud**: A cloud platform for fast and scalable AI model deployment and inference.
 - **Other Libraries**: pandas, NumPy, etc. (if applicable)
-- 
+
 Ensure you have the following dependencies installed:
 
 Python 3.x
