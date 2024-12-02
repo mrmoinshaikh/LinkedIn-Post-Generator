@@ -21,14 +21,14 @@ Here’s an example of how the generated post might look:
 
 ![Post Example](images/Screenshot%202024-12-02%20185510.png)
 
-Tech Stack
-Python: The primary language used for backend development.
-Llama 3: The core language model used for post generation.
-Streamlit: A framework used to build the interactive web interface.
-Groq Cloud: A cloud platform for fast and scalable AI model deployment and inference.
-Other Libraries: pandas, NumPy, etc. (if applicable)
-Setup
-Prerequisites
+## Tech Stack
+
+- **Python**: The primary language used for backend development.
+- **Llama 3**: The core language model used for post generation.
+- **Streamlit**: A framework used to build the interactive web interface.
+- **Groq Cloud**: A cloud platform for fast and scalable AI model deployment and inference.
+- **Other Libraries**: pandas, NumPy, etc. (if applicable)
+- 
 Ensure you have the following dependencies installed:
 
 Python 3.x
