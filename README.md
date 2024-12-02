@@ -50,6 +50,7 @@ To get started, first install the dependencies using:
  ```commandline
      pip install -r requirements.txt
     ```
+
 Run the streamlit app:
 ```commandline
    streamlit run main.py
