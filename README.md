@@ -46,15 +46,18 @@ Set up your environment variables by editing the .env file or setting them in yo
 
 Install the required Python packages:
 
-1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
-2. To get started, first install the dependencies using:
+1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `.env` update the value of `GROQ_API_KEY` with the API_KEY you created.
+2. 
+3. To get started, first install the dependencies using:
     ```commandline
      pip install -r requirements.txt
     ```
-3. Run the streamlit app:
+    
+4. Run the streamlit app:
    ```commandline
    streamlit run main.py
    ```
+   
 Once the app is running, it will open in your default web browser, and you can interact with the LinkedIn post generator via the UI.
 
 Usage
